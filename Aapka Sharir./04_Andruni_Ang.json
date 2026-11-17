@@ -1,0 +1,35 @@
+{
+  "title": "Andruni Ang",
+  "words": [
+    {
+      "word": "heart",
+      "photo": "heart.jpg",
+      "emoji": "❤"
+    },
+    {
+      "word": "brain",
+      "photo": "brain.jpg",
+      "emoji": "🧠"
+    },
+    {
+      "word": "lungs",
+      "photo": "lungs.jpg",
+      "emoji": "🫁"
+    },
+    {
+      "word": "liver",
+      "photo": "liver.jpg",
+      "emoji": "🫀"
+    },
+    {
+      "word": "kidney",
+      "photo": "kidney.jpg",
+      "emoji": "🫘"
+    },
+    {
+      "word": "bone",
+      "photo": "bone.jpg",
+      "emoji": "🦴"
+    }
+  ]
+}

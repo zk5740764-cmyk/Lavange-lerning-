@@ -1,0 +1,35 @@
+{
+  "title": "Aapka Chehra",
+  "words": [
+    {
+      "word": "eye",
+      "photo": "eye.jpg",
+      "emoji": "👁"
+    },
+    {
+      "word": "nose",
+      "photo": "nose.jpg",
+      "emoji": "👃"
+    },
+    {
+      "word": "ear",
+      "photo": "ear.jpg",
+      "emoji": "👂"
+    },
+    {
+      "word": "mouth",
+      "photo": "mouth.jpg",
+      "emoji": "👄"
+    },
+    {
+      "word": "tooth",
+      "photo": "tooth.jpg",
+      "emoji": "🦷"
+    },
+    {
+      "word": "tongue",
+      "photo": "tongue.jpg",
+      "emoji": "👅"
+    }
+  ]
+}

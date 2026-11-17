@@ -1,0 +1,30 @@
+{
+  "title": "Aapka Dhad",
+  "words": [
+    {
+      "word": "chest",
+      "photo": "chest.jpg",
+      "emoji": "🫁"
+    },
+    {
+      "word": "back",
+      "photo": "back.jpg",
+      "emoji": "🔙"
+    },
+    {
+      "word": "stomach",
+      "photo": "stomach.jpg",
+      "emoji": "🤰"
+    },
+    {
+      "word": "shoulder",
+      "photo": "shoulder.jpg",
+      "emoji": "💪"
+    },
+    {
+      "word": "neck",
+      "photo": "neck.jpg",
+      "emoji": "🦒"
+    }
+  ]
+}

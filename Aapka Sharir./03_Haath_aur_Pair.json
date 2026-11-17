@@ -1,0 +1,35 @@
+{
+  "title": "Haath aur Pair",
+  "words": [
+    {
+      "word": "hand",
+      "photo": "hand.jpg",
+      "emoji": "🖐"
+    },
+    {
+      "word": "finger",
+      "photo": "finger.jpg",
+      "emoji": "☝"
+    },
+    {
+      "word": "arm",
+      "photo": "arm.jpg",
+      "emoji": "💪"
+    },
+    {
+      "word": "foot",
+      "photo": "foot.jpg",
+      "emoji": "🦶"
+    },
+    {
+      "word": "knee",
+      "photo": "knee.jpg",
+      "emoji": "🦵"
+    },
+    {
+      "word": "toe",
+      "photo": "toe.jpg",
+      "emoji": "🦶"
+    }
+  ]
+}
